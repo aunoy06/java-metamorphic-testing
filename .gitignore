@@ -34,3 +34,6 @@ __pycache__/
 
 # Experiment outputs
 experiments/results/*.csv
+
+# Java compilation output
+/build/
